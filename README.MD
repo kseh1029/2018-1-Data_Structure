@@ -1,3 +1,7 @@
+## [Sorting Test 에 대한 C 파일](Sorting_test/sorting_test.c)
+
+
+
 # Ⅰ. 과제 목적 및 측정 환경
 
 1) 수업시간에 배운 Sorting Algorthem을 직접 코딩하고 측정하면서 각각의 소팅 방식의 Complexity 와 작동방식에 대해 숙지한다.
